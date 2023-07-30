@@ -1,6 +1,6 @@
 # basic-mern-authen
 
-Following this guide at [User Authentication](https://www.mongodb.com/languages/mern-stack-tutorial](https://www.makeuseof.com/express-apps-user-authentication-implementing)
+Following this guide at [User Authentication](https://www.makeuseof.com/express-apps-user-authentication-implementing)
 
 You can protect genuine users from malicious ones by authenticating them. Make sure you use best practices to avoid leaving any security holes.
 
