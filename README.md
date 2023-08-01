@@ -1,4 +1,4 @@
-# basic-mern-authen
+# simple-mern-authen
 
 Following this guide at [User Authentication](https://www.makeuseof.com/express-apps-user-authentication-implementing)
 
